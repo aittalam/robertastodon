@@ -1,0 +1,9 @@
+jupyter
+Mastodon.py
+bs4
+scikit-learn
+plotly
+transformers
+torch
+numpy<2
+pandas
